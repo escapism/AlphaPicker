@@ -45,6 +45,13 @@ Alert the alpha value of the coordinates of click on the image.
 </script>
 ```
 
+##Demos
+
+On CodePen.
+
+* [With Anchor](http://codepen.io/escapism/pen/lByDn)
+* [Color Change](http://codepen.io/escapism/pen/upADB)
+
 ##Browser
 
 HTML5 Canvasをサポートしたブラウザで動きます。  
